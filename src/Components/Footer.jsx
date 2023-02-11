@@ -24,7 +24,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Audio and Subtitles
                     </a>
@@ -35,7 +35,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Media Center
                     </a>
@@ -46,7 +46,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Privacy
                     </a>
@@ -57,7 +57,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Contact us
                     </a>
@@ -77,7 +77,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Audio Description
                     </a>
@@ -86,7 +86,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Investor Relations
                     </a>
@@ -97,7 +97,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Legal Notices
                     </a>
@@ -117,7 +117,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Help Center
                     </a>
@@ -128,7 +128,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Jobs
                     </a>
@@ -139,7 +139,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Cookie Preferences
                     </a>
@@ -159,7 +159,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Gift Cards
                     </a>
@@ -170,7 +170,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Terms of Use
                     </a>
@@ -181,7 +181,7 @@ function MyFooter() {
                     <a
                       href="#sas"
                       alt="footer link"
-                      style={{ color: "#838383" }}
+                      style={{ color: "#838383", textDecoration: "none" }}
                     >
                       Corporate Information
                     </a>

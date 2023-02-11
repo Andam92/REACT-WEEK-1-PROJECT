@@ -1,5 +1,6 @@
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import { FaThLarge, FaTh } from "react-icons/fa";
 
 function Row1() {
   return (
@@ -36,8 +37,12 @@ function Row1() {
           </div>
         </Col>
         <Col className="d-flex justify-content-end">
-          <p className="text-light pe-3">icona1</p>
-          <p className="text-light pe-3">icona1</p>
+          <p className="text-light pe-3">
+            <FaThLarge />
+          </p>
+          <p className="text-light pe-3 ms-3">
+            <FaTh />
+          </p>
         </Col>
       </Row>
     </div>
